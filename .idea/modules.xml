@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectWorldDatabaseController.iml" filepath="$PROJECT_DIR$/.idea/ProjectWorldDatabaseController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SimpleBlogWithFlask.iml" filepath="$PROJECT_DIR$/.idea/SimpleBlogWithFlask.iml" />
     </modules>
   </component>
 </project>
